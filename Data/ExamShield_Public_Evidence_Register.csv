@@ -1,0 +1,15 @@
+Event_ID,Date,Geography,Exam,Event_Category,Event,Pune_Link,Metric_1,Metric_2,Evidence_Summary,Source_ID
+EV001,2024-06-21,India,Public exam ecosystem,Legal framework,Act enforced,No,N/A,1,Public Examinations Act took effect,SRC001
+EV002,2026-05-02,India,NEET-UG 2026,Scale,22.79 lakh candidates,No,2279000,5432,551 Indian cities + 14 abroad; 6000+ observers; 2 lakh+ personnel,SRC002
+EV003,2026-05-10,India,NEET-UG 2026,Incident signal,Inputs received,Yes,0,0,NTA said inputs were received on 7-May and escalated on 8-May; inquiry ongoing,SRC003
+EV004,2026-05-12,India,NEET-UG 2026,Investigation,CBI case registered,Yes,0,0,Case concerning alleged unauthorized circulation of examination documents,SRC004
+EV005,2026-05-14,Pune,NEET-UG 2026,Investigation,Arrests announced,Yes,2,0,One of the two announced arrests was from Pune,SRC005
+EV006,2026-05-15,Pune,NEET-UG 2026,Investigation,Alleged access point identified,Yes,1,0,PIB reported an alleged source with access to papers and activity connected to Pune,SRC006
+EV007,2026-05-16,Pune,NEET-UG 2026,Investigation,Biology question chain alleged,Yes,1,0,PIB reported another Pune-linked arrest; investigation ongoing,SRC007
+EV008,2026-05-18,India,NEET-UG 2026,Investigation,10 arrests reported,Yes,10,5,CBI searches and investigation continued,SRC008
+EV009,2026-05-27,India,NEET-UG 2026,Investigation,13 arrests; 49 searches,Yes,13,49,"Official release said Chemistry, Biology and Physics chains were being investigated",SRC009
+EV010,2025-07-24,India,SSC Selection Post Phase XIII,Operations,Exam disruptions reported,No,0,0,"Cancellations, server crashes, unresponsive systems and centre changes were reported",SRC010
+EV011,2026-09-22,India,SSC Selection Post Phase XIII,Data governance,Specific impact data gap reported,No,76153,0,SSC told CIC specific affected-candidate data was not available in relevant section,SRC011
+EV012,2026-06-21,India,NEET-UG 2026,Recovery,Re-examination / follow-up,No,0,0,"NTA published re-examination notices, venue changes and biometric exception guidance",SRC014
+EV013,2026-07-30,India,Public examinations,Policy response,Amendment Bill passed Rajya Sabha,No,35,46,Official release said 35 of 46 high-level expert committee recommendations had been implemented,SRC012
+EV014,2026-07-27,India,Public examinations,Policy response,Amendment Bill introduced,No,0,0,Proposed faster investigation/trial and stronger penalties,SRC013
